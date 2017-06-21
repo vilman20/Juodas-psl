@@ -1,0 +1,43 @@
+
+div.container{
+    width: 50%;
+    margin: auto;
+    padding: 0px;
+    border: 2px solid gray;
+}
+
+header{
+    background-color: black;
+    padding: 40px;
+    color: white;
+    text-align: center;
+}
+
+nav{
+    float: left;
+    width: 160px;
+    margin: 0;
+    padding: 2em;
+    background-color:red;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+
+article{
+    margin-left: 170px;
+    border-left: 1px solid gray;
+    padding: 10px;
+    text-align:justify;
+    overflow: hidden;
+}
+
+
+footer{
+    background-color: black;
+    padding: 15px;
+    color: white;
+    text-align: center;
+    }
